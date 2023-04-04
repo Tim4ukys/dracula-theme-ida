@@ -1,8 +1,0 @@
-{
-    "theme_name": "Dracula theme",
-    "author": "oppsec, zenorocha, relative",
-    "version": "v1.0.1",
-    "preview_image": "screenshot.png",
-    "clr_file": "dracula-theme.clr",
-    "qss_file": "theme.css"
-}
